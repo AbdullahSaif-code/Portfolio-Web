@@ -29,5 +29,5 @@ This project is licensed under the CC0 License.
 For inquiries or suggestions, please feel free to contact:
 
 - **Name**: Abdullah Saif
-- **GitHub**: [@AbdullahaSaif](URL_5)
-- **Phone | Whatsapp**: +923154389728
+- **GitHub**: [@Abdullahsaif-code](URL_5)
+- **Phone | Whatsapp**: +92 348 4567225
